@@ -164,7 +164,7 @@ https://www.menti.com/3f5f3a5pqn
 
 +++
 
-### 成功<font color="orange">体験</font>も大事。
+### 成功<font color="orange">体験</font>も大事
 - <font color="orange">モチベーション</font>の育成にもなる。
 
 +++
@@ -176,7 +176,7 @@ https://www.menti.com/3f5f3a5pqn
 1回の授業で払う金額を知っていますか？
 
 例えば、
-- 授業料：年147万円(応用情報:2017年度)
+- 授業料：年147万円(応用情報:2020年度)
 - 履修科目：年30科目
 の場合は、<font color="orange">3,270円</font>(=147万円÷30科目÷15回)。
 
@@ -190,9 +190,9 @@ https://www.menti.com/3f5f3a5pqn
 
 - 遊びやバイトの許容範囲は？
   - 例えば、留年しない位まで。
-- 留年1回あたり<font color="orange">147万円以上</font>の出費。  
+- 留年1回あたり<font color="orange">147万円以上</font>の出費。
 
-<font color="orange">自由</font>と<font color="orange">責任</font>
+### <font color="orange">自由</font>と<font color="orange">責任</font>
 
 +++
 
