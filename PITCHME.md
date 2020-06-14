@@ -16,14 +16,10 @@
 
 +++
 
-@css[text-blue fragment](Hello, World!)
-
-[](
-### <font color="yellowgreen">事務連絡</font>\
+[](### <font color="yellowgreen">事務連絡</font>\
 ・小論文はCSTポータル経由で告知\
 ・1年生幹事募集中\
-+++
-)
++++)
 
 【インセンティブ】（デジタル大辞泉）
 > やる気を起こさせるような刺激。
