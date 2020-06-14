@@ -1,3 +1,5 @@
+これは<span style="color: red; ">赤文字</span>です
+
 情報工学
 インセンティブ
 
