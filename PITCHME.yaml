@@ -2,7 +2,7 @@
 theme : night
 
 #フットノートの設定
-footnote : "<font size="80%">撮影禁止</font>"
+footnote : "<font size='80%'>撮影禁止</font>"
 
 #スライドのページ数表示の設定
 slide-number: true
