@@ -1,6 +1,6 @@
 #テーマの設定
 theme : night
-theme-text : [ "Open Sans", "#eee", "none", "yellow", "200" ]
+theme-text : [ "Open Sans", "#eee", "none", "yellow", "200", "100", "15" ]
 
 #レイアウトの設定
 layout : center-left
