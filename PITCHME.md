@@ -1,4 +1,4 @@
-@css[text-25]
+@snap[text-25]
 
 # 応用情報工学
 ## インセンティブ  
@@ -753,3 +753,4 @@ ICT → I Create Tommorow
 
 .capimage 2012-07-26-20.49.31.png インセンティブになりましたか？
 
+@snapend
