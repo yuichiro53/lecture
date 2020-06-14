@@ -64,6 +64,8 @@ https://www.menti.com/3f5f3a5pqn
 - このサイトは別端末（スマホ等）利用がベター
 - 以降の質問も同様
 
+![height=200](https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png)
+
 +++
 
 ### 【質問】興味のある分野は？
