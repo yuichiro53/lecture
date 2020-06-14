@@ -16,6 +16,8 @@
 
 +++
 
+@css[text-blue fragment](Hello, World!)
+
 [](
 ### <font color="yellowgreen">事務連絡</font>\
 ・小論文はCSTポータル経由で告知\
