@@ -2,7 +2,7 @@
 theme : night
 
 #フットノートの設定
-footnote : "撮影禁止"
+footnote : "<h5>撮影禁止</h5>"
 
 #スライドのページ数表示の設定
 slide-number: true
