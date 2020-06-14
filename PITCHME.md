@@ -161,6 +161,9 @@ https://www.menti.com/3f5f3a5pqn
 - 在学中に失敗すると、得。
 - あえて失敗してみる。
   - 失敗から<font color="orange">学ぶ</font>こともある。
+
++++
+
 ### 成功<font color="orange">体験</font>も大事。
 - <font color="orange">モチベーション</font>の育成にもなる。
 
