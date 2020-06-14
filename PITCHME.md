@@ -1,13 +1,13 @@
 
-## 応用情報工学
-## インセンティブ  
+# 応用情報工学
+# インセンティブ  
 ___
 ### 「インタラクティブな授業」
 ### 五味悠一郎
 
 +++
 
-### <font color="yellowgreen">スライドの撮影禁止</font>
+## <font color="yellowgreen">スライドの撮影禁止</font>
 - シャッター音がうるさい
 - 記憶と記録は違う
 - 著作権侵害は犯罪（親告罪）
@@ -15,7 +15,7 @@ ___
   - 例外規定(条件あり)：授業での利用、私的複製
 
 +++
-[](### <font color="yellowgreen">事務連絡</font>)
+[](## <font color="yellowgreen">事務連絡</font>)
 [](- 小論文はCSTポータル経由で告知)
 [](- 1年生幹事募集中)
 
@@ -27,7 +27,7 @@ ___
 
 +++
 
-### <font color="yellowgreen">本日の課題</font>
+## <font color="yellowgreen">本日の課題</font>
 - 高校卒業後の進路として大学を選んだ理由
 - 大学の中で応用情報工学科を選んだ理由
 - 大学を卒業したら何をしたいか
@@ -37,7 +37,7 @@ ___
 
 +++
 
-### レジュメ（五味担当）
+## レジュメ（五味担当）
 - <font color="skyblue">学生生活のヒント</font>
 - <font color="skyblue">自己紹介</font>
 - <font color="skyblue">研究紹介</font>
@@ -82,11 +82,11 @@ ___
 
 +++
 
-# <font color="yellowgreen">高校までと大学以降の違い</font>
+## <font color="yellowgreen">高校までと大学以降の違い</font>
 
 +++
 
-<font color="yellowgreen">小学校・中学校・高校</font>
+## <font color="yellowgreen">小学校・中学校・高校</font>
 - <font color="orange">答えが分かっている</font>問題を解く
   - 100年以上前の知識や技術が中心
 - 児童、生徒
@@ -96,7 +96,7 @@ ___
 
 +++
 
-<font color="yellowgreen">大学・大学院</font>
+## <font color="yellowgreen">大学・大学院</font>
 - <font color="orange">答えが分かっていない</font>問題を解決する
   100年以内の知識や技術が中心
 - 学生
@@ -107,8 +107,7 @@ ___
 
 +++
 
-<font color="yellowgreen">大学設置基準</font>
-
+## <font color="yellowgreen">大学設置基準</font>
 1単位は45時間の学習
 →講義科目(2単位)は、1回あたり
 　<font color="orange">4時間の自己学習</font>を想定。
@@ -120,7 +119,7 @@ ___
 
 +++
 
-# 大学って<font color="orange">何が出来る</font>と思いますか？
+大学って<font color="orange">何が出来る</font>と思いますか？
 
 +++
 
@@ -133,7 +132,7 @@ ___
 
 +++
 
-# <font color="yellowgreen">学生の特権</font>
+## <font color="yellowgreen">学生の特権</font>
 
 +++
 
@@ -161,7 +160,7 @@ ___
 
 +++
 
-# <font color="yellowgreen">先立つもの</font>
+## <font color="yellowgreen">先立つもの</font>
 
 +++
 
@@ -247,7 +246,7 @@ ___
 
 +++
 
-<font color="yellowgreen">就職と就活</font>
+## <font color="yellowgreen">就職と就活</font>
 
 +++
 
@@ -474,7 +473,7 @@ PM≒院卒
 
 +++
 
-<font color="yellowgreen">その他</font>
+## <font color="yellowgreen">その他</font>
 
 +++
 
@@ -586,7 +585,7 @@ PM≒院卒
 
 +++
 
-<font color="skyblue">自己紹介</font>
+# <font color="skyblue">自己紹介</font>
 
 +++
 
@@ -597,7 +596,7 @@ PM≒院卒
 
 +++
 
-<font color="skyblue">研究紹介</font>
+# <font color="skyblue">研究紹介</font>
 
 +++
 
@@ -641,7 +640,7 @@ ICT → I Create Tommorow
 
 +++
 
-<font color="yellowgreen">思ったこと</font>
+## <font color="yellowgreen">思ったこと</font>
 
 +++
 
@@ -681,7 +680,7 @@ ICT → I Create Tommorow
 
 +++
 
-<font color="yellowgreen">考えて欲しいこと</font>
+## <font color="yellowgreen">考えて欲しいこと</font>
 
 +++
 
@@ -695,7 +694,7 @@ ICT → I Create Tommorow
 
 +++
 
-<font color="yellowgreen">最後に・・・</font>
+## <font color="yellowgreen">最後に・・・</font>
 
 +++
 
@@ -710,7 +709,7 @@ ICT → I Create Tommorow
 
 +++
 
-僕は、まだまだ<font color="orange">やり足りない</font>：
+僕は、まだまだ<font color="orange">やり足りない</font>。
 - 資格100個取得
 - 学生の起業サポート
 - より良い医療
@@ -732,7 +731,7 @@ ICT → I Create Tommorow
 
 +++
 
-<font color="yellowgreen">本日の課題</font>
+## <font color="yellowgreen">本日の課題</font>
 
 - 高校卒業後の進路として大学を選んだ理由
 - 大学の中で応用情報工学科を選んだ理由
