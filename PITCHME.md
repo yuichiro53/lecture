@@ -267,7 +267,8 @@ https://www.menti.com/3f5f3a5pqn
 
 +++
 
-![height=400, alt=ドラえもん第1巻, title=ドラえもん第1巻](https://dl.dropboxusercontent.com/s/m8zjd3vewios3i9/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E7%AC%AC1%E5%B7%BBp16.png)
+![height=400](https://dl.dropboxusercontent.com/s/m8zjd3vewios3i9/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E7%AC%AC1%E5%B7%BBp16.png)  
+ドラえもん第1巻
 
 +++
 
