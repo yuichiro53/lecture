@@ -2,7 +2,7 @@
 theme : night
 
 #レイアウトの設定
-layout : top-center
+layout : center-left
 
 #フットノートの設定
 footnote : "<div style='font-size:medium'>撮影禁止</div>"
