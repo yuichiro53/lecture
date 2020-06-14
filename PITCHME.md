@@ -64,6 +64,8 @@ https://www.menti.com/3f5f3a5pqn
 - 動画はPC、このサイトはスマホがベター
 - 以降の質問も同様
 
++++
+
 ### 【質問】興味のある分野は？  
 （複数回答可）
 1. 情報処理
@@ -72,7 +74,7 @@ https://www.menti.com/3f5f3a5pqn
 
 +++
 
-### 【質問】応用情報工学科の授業は？
+### 【質問】応用情報工学科の<br>授業は？
 1. 期待通りだった
 2. 期待通りでなかった
 
@@ -84,8 +86,7 @@ https://www.menti.com/3f5f3a5pqn
 
 +++
 
-# <font color="skyblue">学生生活の  
-ヒント</font>
+# <font color="skyblue">学生生活の<br>ヒント</font>
 
 +++
 
