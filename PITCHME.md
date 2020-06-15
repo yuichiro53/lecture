@@ -427,11 +427,11 @@ PM≒院卒
 
 +++
 
-経験は、仕事や研究の<font color="orange">ネタ</font>にもなる。
+### 経験は、仕事や研究の<font color="orange">ネタ</font>にもなる。
 
 +++
 
-![height=500](https://dl.dropboxusercontent.com/s/neae8zoh2p9hppw/%E7%A4%BE%E9%95%B7%E3%81%8C%E8%A8%8A%E3%81%8F%E3%80%8ENew%20%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BA%20Wii%E3%80%8F1.png)
+![height=500](https://dl.dropboxusercontent.com/s/gtjysahzfqd8sdm/%E7%A4%BE%E9%95%B7%E3%81%8C%E8%A8%8A%E3%81%8F%E3%80%8ENew%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BAWii%E3%80%8F.png)
 
 社長が訊く『NewスーパーマリオブラザーズWii』
 
