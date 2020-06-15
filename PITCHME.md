@@ -376,7 +376,7 @@ https://www.menti.com/3f5f3a5pqn
 
 +++
 
-ネットアイドルの育成
+### ネットアイドルの育成
 （友人企画）
 
 +++
@@ -413,13 +413,13 @@ PG≒高卒
 SE≒大卒  
 PM≒院卒
 
-スキルの身につけ方
+### スキルの身につけ方
 - 企業では教えてくれない
   - 自ら学ぶ
 - 大学院では教えてくれる
   - 仮説検証の繰り返し
 
-<font color="orange">自信がない</font>人や<font color="orange">効率的に学びたい</font>人は大学院へ
+### <font color="orange">自信がない</font>人や<font color="orange">効率的に学びたい</font>人は大学院へ
 
 +++
 
