@@ -388,6 +388,10 @@ https://www.menti.com/3f5f3a5pqn
 
 +++
 
+授業キーワード：incentive
+
++++
+
 - 情報系職種のキャリアステップ
   - PG→SE→PM
 - 仕事
