@@ -1,3 +1,7 @@
+name: interactive
+class: middle, left
+.footnote[.red.bold[撮影禁止!]]
+
 # 応用情報工学
 ## インセンティブ  
 ___
@@ -64,7 +68,7 @@ https://www.menti.com/3f5f3a5pqn
 - このサイトは別端末（スマホ等）利用推奨
 - 以降の質問も同様
 
-![height=200](https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png)
+<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=200>
 
 ---
 
