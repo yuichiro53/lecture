@@ -1,4 +1,4 @@
-class: middle, left
+class: left, middle
 
 # 応用情報工学
 ## インセンティブ  
