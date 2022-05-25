@@ -1,6 +1,4 @@
-name: interactive
 class: middle, left
-.footnote[.red.bold[撮影禁止!]]
 
 # 応用情報工学
 ## インセンティブ  
