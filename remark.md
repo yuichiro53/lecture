@@ -1,3 +1,5 @@
+class: middle, left 
+
 # 応用情報工学
 ## インセンティブ  
 ___
@@ -85,6 +87,8 @@ https://www.menti.com/3f5f3a5pqn
 ### 期待通りでなかった人には、<br>この後の話が役に立つ<font color="orange">かも</font>。<br>（期待通りだった人も参考に）
 
 ---
+
+class: middle, left 
 
 # <font color="skyblue">学生生活の<br>ヒント</font>
 
@@ -573,6 +577,8 @@ PM≒院卒
 
 ---
 
+class: middle, left 
+
 # <font color="skyblue">自己紹介</font>
 
 ---
@@ -583,6 +589,8 @@ PM≒院卒
 以上
 
 ---
+
+class: middle, left 
 
 # <font color="skyblue">研究紹介</font>
 
