@@ -1,8 +1,8 @@
 class: middle, left 
 
 # 応用情報工学
-## インセンティブ  
-___
+## インセンティブ
+  ___
 ### 「インタラクティブな授業」
 ### 五味悠一郎
 
@@ -24,7 +24,7 @@ ___
 > やる気を起こさせるような刺激。
 
 【インタラクティブ】（三省堂 大辞林 第三版）
->  相互に作用するさま。
+> 相互に作用するさま。
 
 ---
 
@@ -53,20 +53,22 @@ ___
 
 ---
 
-授業中に幾つか質問します。  
-<font color="orange">個別には当てない</font>ので、出来るだけ<font color="orange">~~手を挙げ~~回答し</font>てください。  
-（答えたくない質問は無回答OK）
+授業中に幾つか質問します。
+  <font color="orange">個別には当てない</font>ので、出来るだけ<font color="orange">~~手を挙げ~~回答し</font>てください。
+  （答えたくない質問は無回答OK）
 
 ---
 
 ### 学生番号と氏名を入力
 （出席確認）
-- ブラウザで以下のWebサイトへアクセス  
-https://www.menti.com/3f5f3a5pqn  
+- ブラウザで以下のWebサイトへアクセス
+https://www.menti.com/3f5f3a5pqn
 - このサイトは別端末（スマホ等）利用推奨
 - 以降の質問も同様
 
-<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=200>
+<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=400>
+
+.footnote[このスライドのみ撮影可]
 
 ---
 
@@ -122,8 +124,8 @@ class: middle, left
 
 ## <font color="yellowgreen">大学設置基準</font>
 - 1単位は45時間の学習
-  - 講義科目(2単位)は、1回あたり<font color="orange">4時間の自己学習</font>を想定。  
-＝90時間÷15回－2時間（授業1回を2時間換算）
+  - 講義科目(2単位)は、1回あたり<font color="orange">4時間の自己学習</font>を想定。
+  ＝90時間÷15回－2時間（授業1回を2時間換算）
 - <font color="orange">効率</font>的に学ぶ必要がある。
   - <font color="orange">スタディスキル</font>（アカデミックスキル）が必要。
 
@@ -208,8 +210,8 @@ class: middle, left
 
 一つの目安は、<font color="orange">時給5,000円</font>(税込)。
 
-算出根拠：  
-> 外注SEの相場は、1人月100万円。  
+算出根拠：
+> 外注SEの相場は、1人月100万円。
 > 5000円=月100万／月200時間
 
 技術があれば、<font color="orange">学生でも</font>この位はもらえる。
@@ -228,8 +230,8 @@ class: middle, left
 ---
 
 普通仮免許と普通本免許を直接試験場で受験し、学科と技能試験を一日（計二日）で済ませる。
-> 普通仮免許：5,500円  
-> 普通免許：5,400円  
+> 普通仮免許：5,500円
+> 普通免許：5,400円
 > 取得時講習受講料：15,400円
 
 合計<font color="orange">26,300</font>円(2019年11月現在)
@@ -237,9 +239,9 @@ class: middle, left
 ---
 
 <font color="orange">仮説</font>が大事。研究と一緒。
-> 釈迦  
-> 「信念を持って努め励め」  
-> キリスト  
+釈迦
+> 「信念を持って努め励め」
+キリスト
 > 「求めよ、さらば与えられん」
 
 注：人によって解釈が異なる。
@@ -273,7 +275,7 @@ class: middle, left
 
 ---
 
-![height=500](https://dl.dropboxusercontent.com/s/m8zjd3vewios3i9/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E7%AC%AC1%E5%B7%BBp16.png)
+<img src="https://dl.dropboxusercontent.com/s/m8zjd3vewios3i9/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E7%AC%AC1%E5%B7%BBp16.png" width=500>
 
 ドラえもん第1巻
 
@@ -301,10 +303,10 @@ class: middle, left
 ---
 
 ### 五味の場合
-- <font color="orange">自由に</font>生きたい。  
+- <font color="orange">自由に</font>生きたい。
   - やりたい事を、やりたい時にできるか？
-- 事実、学生時代が一番稼げた。  
-  - 就活なんて、しなかった。  
+- 事実、学生時代が一番稼げた。
+  - 就活なんて、しなかった。
   - ずっと学生でいたかったので、大学院へ。
 
 ---
@@ -330,13 +332,15 @@ class: middle, left
 ---
 
 ### 入社試験でよくある質問
-- 学生時代に頑張ったことは？  
-それによって学んだことは？
+- 学生時代に頑張ったことは？
+  - それによって学んだことは？
 - 自己PRをしてください
 - あなたの長所は何ですか？
 - 成功体験と失敗体験を教えてください
 
 ---
+
+[](■質問■  皆さんは何を頑張りますか？  （複数回答可）  1.バイト  2.サークル  3.学業  4.研究  5.その他)
 
 ### 【質問】学生時代に何を頑張りますか？
 （自由記述で最大１０文字まで）
@@ -386,11 +390,13 @@ class: middle, left
 ---
 
 ### ものは言いよう
-×趣味  
-×お金が欲しい  
-○<font color="orange">見識を深めたかった</font>
+×趣味
+  ×お金が欲しい
+  ○<font color="orange">見識を深めたかった</font>
 
 ---
+
+class: middle, left 
 
 授業キーワード：incentive
 
@@ -412,14 +418,14 @@ class: middle, left
 - 大卒：<font color="orange">課題があれば</font>解決できる
 - 院卒：<font color="orange">課題を見つけて</font>解決できる
 
-スキルが違うから給料も違う。  
-上司の<font color="orange">負担軽減分</font>が給与に反映。
+スキルが違うから給料も違う。
+  上司の<font color="orange">負担軽減分</font>が給与に反映。
 
 ---
 
-PG≒高卒  
-SE≒大卒  
-PM≒院卒
+PG≒高卒
+  SE≒大卒
+  PM≒院卒
 
 ### スキルの身につけ方
 - 企業では教えてくれない
@@ -439,15 +445,14 @@ PM≒院卒
 
 ---
 
-![height=500](https://dl.dropboxusercontent.com/s/gtjysahzfqd8sdm/%E7%A4%BE%E9%95%B7%E3%81%8C%E8%A8%8A%E3%81%8F%E3%80%8ENew%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BAWii%E3%80%8F.png)
+<img src="https://dl.dropboxusercontent.com/s/gtjysahzfqd8sdm/%E7%A4%BE%E9%95%B7%E3%81%8C%E8%A8%8A%E3%81%8F%E3%80%8ENew%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BAWii%E3%80%8F.png" width=500>
 
 社長が訊く『NewスーパーマリオブラザーズWii』
 
 ---
 
-![height=500](https://dl.dropboxusercontent.com/s/2o1gsohpjcvg430/20060203042729.jpg)  
-
-ドンキーコング・マリオブラザーズ
+<img src="https://dl.dropboxusercontent.com/s/2o1gsohpjcvg430/20060203042729.jpg" width=500>
+  ドンキーコング・マリオブラザーズ
 
 ---
 
@@ -485,9 +490,9 @@ PM≒院卒
 - コミュニケーション力？
   - 語学系資格は有り？
 
-免許以外は（本当は）<font color="orange">要らない</font>。  
-教員免許は<font color="orange">学校以外でも</font>役立つ。  
-資格は就職後に取った方が良い（採用条件除く）。
+免許以外は（本当は）<font color="orange">要らない</font>。
+  教員免許は<font color="orange">学校以外でも</font>役立つ。
+  資格は就職後に取った方が良い（採用条件除く）。
 
 ---
 
@@ -498,8 +503,8 @@ PM≒院卒
 
 ---
 
-×　ゲーム作りたい  
-○　ゲーム作った
+×　ゲーム作りたい
+  ○　ゲーム作った
 
 ### いつやるの？
 
@@ -528,8 +533,8 @@ PM≒院卒
 
 ---
 
-答えは内緒。  
-考えるか、バイトしてみよう。
+答えは内緒。
+  考えるか、バイトしてみよう。
 
 <font color="orange">自ら考え、行動</font>することが大事。
 
@@ -558,8 +563,8 @@ PM≒院卒
 
 ---
 
-授業で学ぶ知識や技術で作れる。  
-<font color="orange">学生でも</font>開発に関われます。
+授業で学ぶ知識や技術で作れる。
+  <font color="orange">学生でも</font>開発に関われます。
 
 ---
 
@@ -597,20 +602,22 @@ class: middle, left
 ---
 
 [](別ファイル："研究紹介「五味悠一郎」.txt")
+[](研究室前の  掲示参照  以上)
+~~医療や教育およびビジネスで生じる諸問題を、人工知能やブロックチェーンおよびシミュレーションなどの情報技術を用いて楽しく解決する方法、および解決したことを科学的に証明する方法などを研究しています。~~
+
 # ~~研究室前の掲示参照~~ググれ！
-医療や教育およびビジネスで生じる諸問題を、人工知能やブロックチェーンおよびシミュレーションなどの情報技術を用いて楽しく解決する方法、および解決したことを科学的に証明する方法などを研究しています。
-あとは、ググれ！
-以上。
+
+以上
 
 ---
 
-### イノベーション（技術革新）  
+### イノベーション（技術革新）
 ≒<font color="orange">固定観念</font>(一般常識？)を理解した上で<font color="orange">捨てる</font>こと
 
 ---
 
-<font color="orange">環境</font>は用意します。  
-（ヒト、モノ、カネ、情報）
+<font color="orange">環境</font>は用意します。
+  （ヒト、モノ、カネ、情報）
 
 最低限しか教えません。
 
@@ -622,8 +629,8 @@ nothing → know → understand → do → can → share → teach
 
 Impossible → I'm possible（文法誤り）
 
-1.01の法則　1.01^365=37.8  
-0.99の法則　0.99^365=0.03
+1.01の法則　1.01^365=37.8
+  0.99の法則　0.99^365=0.03
 
 ICT → I Create Tommorow
 
@@ -644,7 +651,7 @@ ICT → I Create Tommorow
 
 ---
 
-- 自ら行動しなければ、どこの大学も変わらない  
+- 自ら行動しなければ、どこの大学も変わらない
 - 自ら行動すれば、どこの大学も変わらない
   - 大学を<font color="orange">使うのは良い</font>が、大学に<font color="orange">頼ってはダメ</font>。
 - 未来のことは誰にも分からない
@@ -654,8 +661,8 @@ ICT → I Create Tommorow
 
 ---
 
-やりたい事が学生ではできないなら、大学を辞めても構わない。  
-←<font color="orange">大学卒業したほうが楽</font>だけど。
+やりたい事が学生ではできないなら、大学を辞めても構わない。
+  ←<font color="orange">大学卒業したほうが楽</font>だけど。
 
 深く狭くも良い
 
@@ -681,8 +688,8 @@ ICT → I Create Tommorow
 
 ---
 
-僕の約20年間を1時間で疑似体験してもらいました。  
-(僕の話はサンプル)
+僕の約20年間を1時間で疑似体験してもらいました。
+  (僕の話はサンプル)
 
 僕の20年位前は、今の皆さんと違いますか？
 
@@ -703,12 +710,12 @@ ICT → I Create Tommorow
 
 ---
 
-<font color="orange">大学入ってよかった</font>、という人生を送ってください。  
-人生は与えられるものではなく、自ら創り上げるものです。
+<font color="orange">大学入ってよかった</font>、という人生を送ってください。
+  人生は与えられるものではなく、自ら創り上げるものです。
 
-いつでも研究室へ来てください。  
-（2号館2階223研究室）  
-ワクワクを共有しましょう。
+いつでも研究室へ来てください。
+  （2号館2階223研究室）
+  ワクワクを共有しましょう。
 
 ---
 
@@ -723,6 +730,11 @@ ICT → I Create Tommorow
 
 ---
 
-![height=500](https://dl.dropboxusercontent.com/s/882396io0onym23/2012-07-26-20.49.31.png)  
+![](dl.dropboxusercontent.com/s/882396io0onym23/2012-07-26-20.49.31.png)
 
+    やれなかった
+      やらなかった
+        どっちかな
+          －－－相田みつを
+  
 インセンティブになりましたか？
