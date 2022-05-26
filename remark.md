@@ -278,7 +278,7 @@ class: middle, center
 
 <img src="https://dl.dropboxusercontent.com/s/m8zjd3vewios3i9/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E7%AC%AC1%E5%B7%BBp16.png" width=400>
 
-ドラえもん第1巻
+ドラえもん第1巻（藤子・F・不二雄、小学館）
 
 ---
 
@@ -456,11 +456,15 @@ PM≒院卒
 
 社長が訊く『NewスーパーマリオブラザーズWii』
 
+（任天堂、https://www.nintendo.co.jp/wii/interview/smnj/vol1/）
+
 ---
 
 <img src="https://dl.dropboxusercontent.com/s/2o1gsohpjcvg430/20060203042729.jpg" width=400>
 
 ドンキーコング・マリオブラザーズ
+
+（任天堂）
 
 --
 
@@ -714,8 +718,7 @@ ICT → I Create Tommorow
 > 約12年間で疑似体験してきた
 
 皆さんなら、
-> 僕より短い期間で、<br>
-> 僕以上の経験値
+> 僕より短い期間で、僕以上の経験値
 
 を積むことも可能。
 
