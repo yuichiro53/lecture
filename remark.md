@@ -640,6 +640,8 @@ class: middle, center
 
 ---
 
+### 学びのステップ
+
 nothing<br>
 → know<br>
 　→ understand<br>
@@ -647,6 +649,10 @@ nothing<br>
 　　　→ can<br>
 　　　　→ share<br>
 　　　　　→ teach
+
+---
+
+### 名（迷？）言
 
 Impossible → I'm possible（文法誤り）
 
