@@ -1,4 +1,4 @@
-class: middle, left 
+class: middle, center
 
 # 応用情報工学
 ## インセンティブ
@@ -51,7 +51,7 @@ class: middle, left
 - スライド切替<font color="orange">早い</font>です(スライド沢山)。
 - 話のスピード<font color="orange">早い</font>です(効率的にメモ)。
 
----
+--
 
 授業中に幾つか質問します。
   <font color="orange">個別には当てない</font>ので、出来るだけ<font color="orange">~~手を挙げ~~回答し</font>てください。
@@ -59,14 +59,13 @@ class: middle, left
 
 ---
 
-### 学生番号と氏名を入力
-（出席確認）
-- ブラウザで以下のWebサイトへアクセス
+### 学生番号と氏名を入力（出席確認）
+- ブラウザ（もしくはQRコード）で以下のWebサイトへアクセス
 https://www.menti.com/3f5f3a5pqn
 - このサイトは別端末（スマホ等）利用推奨
 - 以降の質問も同様
 
-<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=400>
+<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=300>
 
 .footnote[このスライドのみ撮影可]
 
@@ -80,7 +79,7 @@ https://www.menti.com/3f5f3a5pqn
 
 ---
 
-### 【質問】応用情報工学科の<br>授業は？
+### 【質問】応用情報工学科の授業は？
 1. 期待通りでなかった
 2. 期待通りだった
 
@@ -90,7 +89,7 @@ https://www.menti.com/3f5f3a5pqn
 
 ---
 
-class: middle, left 
+class: middle, center
 
 # <font color="skyblue">学生生活の<br>ヒント</font>
 
@@ -133,7 +132,7 @@ class: middle, left
 
 ### 大学って<font color="orange">何が出来る</font>と思いますか？
 
----
+--
 
 - <font color="orange">色々と考える</font>ことが出来る
 - <font color="orange">学生しか出来ない</font>ことがある
@@ -146,7 +145,7 @@ class: middle, left
 
 ## <font color="yellowgreen">学生の特権</font>
 
----
+--
 
 - 学ぶ
 - 遊ぶ
@@ -582,7 +581,7 @@ PG≒高卒
 
 ---
 
-class: middle, left 
+class: middle, center
 
 # <font color="skyblue">自己紹介</font>
 
@@ -595,7 +594,7 @@ class: middle, left
 
 ---
 
-class: middle, left 
+class: middle, center
 
 # <font color="skyblue">研究紹介</font>
 
