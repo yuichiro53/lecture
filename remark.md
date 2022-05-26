@@ -65,7 +65,7 @@ https://www.menti.com/3f5f3a5pqn
 - このサイトは別端末（スマホ等）利用推奨
 - 以降の質問も同様
 
-<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=300>
+<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=250>
 
 .footnote[このスライドのみ撮影可]
 
@@ -232,6 +232,7 @@ class: middle, center
 - 普通仮免許：5,500円
 - 普通免許：5,400円
 - 取得時講習受講料：15,400円
+
 合計<font color="orange">26,300</font>円(2019年11月現在)
 
 ---
@@ -240,6 +241,7 @@ class: middle, center
 
 釈迦
 > 「信念を持って努め励め」
+
 キリスト
 > 「求めよ、さらば与えられん」
 
@@ -297,7 +299,7 @@ class: middle, center
 - どっちが良い？
   - きついけど、高収入
   - 楽だけど、低収入
-- とっとと決めて、残りの時間でスキルアップしても良い？
+- とっとと決めて、残りの時間で<font color="orange">スキルアップ</font>しても良い？
 
 ---
 
@@ -438,8 +440,10 @@ PM≒院卒
 
 情報に関する仕事をしたいなら、
 > 情報工学
+
 という学問だけでなく、様々な
 > <font color="orange">情報の中身</font>
+
 も知っておく必要があるのでは？
 
 ---
@@ -706,7 +710,14 @@ ICT → I Create Tommorow
 
 僕の20年位前は、今の皆さんと違いますか？
 
-何百年もの科学の歴史を、約12年間で疑似体験してきた<br>皆さんなら、僕より短い期間で、僕以上の経験値<br>を積むことも可能。
+何百年もの科学の歴史を、
+> 約12年間で疑似体験してきた
+
+皆さんなら、
+> 僕より短い期間で、<br>
+> 僕以上の経験値
+
+を積むことも可能。
 
 ---
 
