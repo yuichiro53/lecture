@@ -743,7 +743,7 @@ ICT → I Create Tommorow
 
 ---
 
-<img src="https://www.dropbox.com/s/m8zjd3vewios3i9/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E7%AC%AC1%E5%B7%BBp16.png?dl=0" width=400>
+<img src="https://dl.dropboxusercontent.com/s/r4470hsn8yckww0/%E7%9B%B8%E6%A3%9218%E6%9C%80%E7%B5%82%E5%9B%9ESPh00m27s02-%E5%8A%A0%E5%B7%A5%E6%B8%88210628.jpg" width=400>
 
 （テレビ朝日、相棒18最終回スペシャル）
 
