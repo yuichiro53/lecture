@@ -652,7 +652,7 @@ nothing<br>
 
 ---
 
-### 名（迷？）言
+### 先人達の名（迷？）言
 
 Impossible → I'm possible（文法誤り）
 
@@ -740,6 +740,14 @@ ICT → I Create Tommorow
 - バンド
 - 芸能人育成
 - 他、多数。
+
+---
+
+<img src="https://www.dropbox.com/s/r4470hsn8yckww0/%E7%9B%B8%E6%A3%9218%E6%9C%80%E7%B5%82%E5%9B%9ESPh00m27s02-%E5%8A%A0%E5%B7%A5%E6%B8%88210628.jpg" width=400>
+
+（テレビ朝日、相棒18最終回スペシャル）
+
+俳優デビュー？（笑）
 
 ---
 
