@@ -63,9 +63,10 @@ ___
 - ブラウザ（かQRコード）で以下のWebサイトへアクセス<br>
 https://www.menti.com/3f5f3a5pqn
 - このサイトは別端末（スマホ等）利用推奨
+- 入力完了前に話が進んでも入力完了させる
 - 以降の質問も同様
 
-<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=250>
+<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=200>
 
 .footnote[このスライドのみ撮影可]
 
