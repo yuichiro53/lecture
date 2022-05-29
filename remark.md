@@ -50,6 +50,7 @@ ___
 - <font color="orange">私見</font>も多数含まれます。
 - スライド切替<font color="orange">早い</font>です(スライド沢山)。
 - 話のスピード<font color="orange">早い</font>です(効率的にメモ)。
+- 他先生と被る内容は<font color="orange">大事</font>なトコロ！
 
 --
 
@@ -61,12 +62,12 @@ ___
 
 ### 学生番号と氏名を入力（出席確認）
 - ブラウザ（かQRコード）で以下のWebサイトへアクセス<br>
-https://www.menti.com/3f5f3a5pqn
+https://www.menti.com/pwxkao9mzh
 - このサイトは別端末（スマホ等）利用推奨
 - 入力完了前に話が進んでも入力完了させる
 - 以降の質問も同様
 
-<img src="https://dl.dropboxusercontent.com/s/4kkqit8nsxtixgl/ce_incentive200615_qr.png" width=200>
+<img src="https://dl.dropboxusercontent.com/s/gejainj6zqv2f17/mentimeter_qr_code220529.png" width=200>
 
 .footnote[このスライドのみ撮影可]
 
@@ -235,6 +236,8 @@ class: middle, center
 - 取得時講習受講料：15,400円
 
 合計<font color="orange">26,300</font>円(2019年11月現在)
+
+運転練習する場所は身近にありますよね！？
 
 ---
 
@@ -439,13 +442,13 @@ PM≒院卒
 
 ---
 
-情報に関する仕事をしたいなら、
+情報に関する仕事をしたいなら、<font color="orange">授業</font>で学ぶ
 > 情報工学
 
-という学問だけでなく、様々な
+という学問だけでなく、様々な<font color="orange">経験</font>を通して
 > <font color="orange">情報の中身</font>
 
-も知っておく必要があるのでは？
+も学ぶ必要があるのでは？
 
 ---
 
@@ -481,6 +484,22 @@ PM≒院卒
 - こうじゃないかな？調べてみよう
 
 と考える
+
+---
+
+### 学部卒後は就職か進学か？
+
+就職を希望する理由
+- 自由に使えるお金を早く手に入れたい
+  - 学生だって稼げる
+- 早く実践経験したい
+  - 学生だって経験できる
+  - 例：セキュリティラボの中小企業セキュリティ診断
+- 学費がない
+  - 稼ぐか奨学金（≒自分への投資）
+  - 投資は投機でもギャンブルでもない
+
+じゃあ、なんで？
 
 ---
 
@@ -528,7 +547,7 @@ PM≒院卒
 
 作り方を教える授業はありません。<br>
 ←教わるもんじゃない。<br>
-作る環境は用意しました。
+作る環境（NCC）は用意しました。
 
 ---
 
