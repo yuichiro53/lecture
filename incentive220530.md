@@ -174,6 +174,8 @@ class: middle, center
 ### 成功<font color="orange">体験</font>も大事
 - <font color="orange">モチベーション</font>の育成にもなる。
 
+[](知恵の輪はお勧め)
+
 ---
 
 ## <font color="yellowgreen">先立つもの</font>
@@ -388,6 +390,7 @@ class: middle, center
 ---
 
 先ほどの例は、五味が学生時代にやったこと。
+[](キセキの世代)
 
 --
 
@@ -678,6 +681,9 @@ class: middle, center
 - イノベーションとは、
   - <font color="orange">固定観念</font>(一般常識？)を理解した上で<font color="orange">捨てる</font>こと
 
+[](影と身体は切り離せますか？)
+[](授業に先生は必要ですか？)
+
 ---
 
 ### 五味の指導方針
@@ -809,6 +815,17 @@ ICT → I Create Tommorow
 
 ---
 
+[](dl.dropboxusercontent.com/s/882396io0onym23/2012-07-26-20.49.31.png)
+
+#やれなかった
+#　やらなかった
+#　　どっちかな
+#　　　－－－相田みつを
+
+インセンティブになりましたか？
+
+---
+
 ## <font color="yellowgreen">本日の課題</font>
 
 - 高校卒業後の進路として大学を選んだ理由
@@ -817,14 +834,3 @@ ICT → I Create Tommorow
 - 今日の話で役に立ちそうだとおもった所
 - 今日の話をこれからの学生（研究）生活にどう活かすか
 - 他
-
----
-
-![](dl.dropboxusercontent.com/s/882396io0onym23/2012-07-26-20.49.31.png)
-
-#やれなかった
-#　やらなかった
-#　　どっちかな
-#　　　－－－相田みつを
-
-インセンティブになりましたか？
