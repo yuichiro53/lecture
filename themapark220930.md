@@ -80,7 +80,7 @@ ___
 ## <font color="yellowgreen">理論</font>
 
 Web
-- https://kenkyu-web.cin.nihon-u.ac.jp/Profiles/104/0010321/profile.html
+- [https://kenkyu-web.cin.nihon-u.ac.jp/Profiles/104/0010321/profile.html]
 
 <img src="https://dl.dropbox.com/s/1xik10i6u4rhevi/www_tokyodisneyresort_jp%21tdl%21map_html220121.png" width=400>
 
