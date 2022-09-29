@@ -80,7 +80,7 @@ ___
 ## <font color="yellowgreen">理論</font>
 
 Web
-- [https://kenkyu-web.cin.nihon-u.ac.jp/Profiles/104/0010321/profile.html]
+- [https:// kenkyu-web.cin.nihon-u.ac.jp/Profiles/104/0010321/profile.html]
 
 <img src="https://dl.dropbox.com/s/1xik10i6u4rhevi/www_tokyodisneyresort_jp%21tdl%21map_html220121.png" width=400>
 
@@ -104,7 +104,7 @@ Bluetooth
 
 ## <font color="yellowgreen">理論</font>
 
-三平方の定理
+三平方の定理（中3数学）
 
 <img src="https://dl.dropbox.com/s/k1fpvnxhtlg2tk6/%E4%B8%89%E5%B9%B3%E6%96%B9%E3%81%AE%E5%AE%9A%E7%90%86.png" width=400>
 
@@ -173,6 +173,9 @@ Bluetooth
   - 学部や学科名だけで選ばない
   - 他学部学科の方が合っている場合も
   - 授業科目や研究内容で選んで欲しい
+- 大学入学までにやってほしいこと
+  - 高校の学びを身につける
+  - 色々経験する
 
 ---
 
