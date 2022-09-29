@@ -70,8 +70,10 @@ ___
 ## <font color="yellowgreen">理論</font>
 
 インターネット
+- プロトコル：TCP/IP、HTTP、SMTP、POP3、FTP、他
+- IPアドレス：133.43.98.8
 
-<img src="https://dl.dropbox.com/s/ifwoy8lc3pt0ofl/network.png" width=400>
+<img src="https://dl.dropbox.com/s/ifwoy8lc3pt0ofl/network.png" width=200>
 
 ---
 
