@@ -80,6 +80,7 @@ ___
 ## <font color="yellowgreen">理論</font>
 
 Web
+- https://kenkyu-web.cin.nihon-u.ac.jp/Profiles/104/0010321/profile.html
 
 <img src="https://dl.dropbox.com/s/1xik10i6u4rhevi/www_tokyodisneyresort_jp%21tdl%21map_html220121.png" width=400>
 
@@ -96,6 +97,8 @@ GPS
 ## <font color="yellowgreen">理論</font>
 
 Bluetooth
+
+- 短距離無線通信
 
 ---
 
@@ -145,7 +148,7 @@ Bluetooth
 
 ---
 
-## 研究の展開
+## <font color="yellowgreen">研究の展開</font>
 
 - 混雑度
 - 乗降人数
@@ -153,7 +156,7 @@ Bluetooth
 
 ---
 
-## 情報とコンピュータの関係
+## <font color="yellowgreen">情報とコンピュータの関係</font>
 
 - 情報とは、データを整理整頓して意味づけを行い価値を有したデータ。
 - 情報工学とは、情報を活用して皆が幸せになる学問。
@@ -161,7 +164,7 @@ Bluetooth
 
 ---
 
-## 大学とは
+## <font color="yellowgreen">大学とは</font>
 
 - 学問（体系化された知識）を追求する場所
 - 大学選び
@@ -173,7 +176,7 @@ Bluetooth
 
 ---
 
-## 応用情報工学科で学べること
+## <font color="yellowgreen">応用情報工学科で学べること</font>
 
 - ゲームの作り方は教えません
   - 勝手に作ってください
