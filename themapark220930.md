@@ -61,20 +61,67 @@ ___
 ## <font color="yellowgreen">目的と目標</font>
 
 - 目的：まと
+  - テーマパークナビで効率よくアトラクションに乗れる！
 - 目標：しるべ
+  - 乗りたいアトラクションを選択するとルートマップが表示される
 
 ---
 
 ## <font color="yellowgreen">理論</font>
 
-インターネット、Web、スクレイピング、GPS、Bluetooth、ダイクストラ法、三平方の定理
+インターネット
+
+<img src="https://dl.dropbox.com/s/ifwoy8lc3pt0ofl/network.png" width=400>
+
+---
+
+## <font color="yellowgreen">理論</font>
+
+Web
+
+<img src="https://dl.dropbox.com/s/1xik10i6u4rhevi/www_tokyodisneyresort_jp%21tdl%21map_html220121.png" width=400>
+
+---
+
+## <font color="yellowgreen">理論</font>
+
+GPS
+
+<img src="https://dl.dropbox.com/s/j9l2nlq7e6h05b8/gps.png" width=400>
+
+---
+
+## <font color="yellowgreen">理論</font>
+
+Bluetooth
+
+---
+
+## <font color="yellowgreen">理論</font>
+
+三平方の定理
+
+<img src="https://dl.dropbox.com/s/k1fpvnxhtlg2tk6/%E4%B8%89%E5%B9%B3%E6%96%B9%E3%81%AE%E5%AE%9A%E7%90%86.png" width=400>
+
+---
+
+## <font color="yellowgreen">理論</font>
+
+- スクレイピング
+- ダイクストラ法
 
 ---
 
 ## <font color="yellowgreen">方法と結果</font>
 
 - 方法：作り方と評価の仕方（再現性が大事）
+  - 現地で実証実験
 - 結果：方法で得られた客観的データ
+  - 時間やアンケートなど
+
+---
+
+## <font color="yellowgreen">方法と結果</font>
 
 <img src="https://dl.dropbox.com/s/599b7wcmv30l4p3/3%20-%20%E3%82%B3%E3%83%94%E3%83%BC.png" width=400>
 
@@ -83,7 +130,11 @@ ___
 ## <font color="yellowgreen">考察とまとめ</font>
 
 - 考察：結果を元にした自分の考え
+  - 想定との差異やその理由
 - まとめ：目標の達成状況判定と展望
+  - 達成、一部達成、未達成
+  - ルートマップが表示された
+  - 待ち時間が未反映
 - PDCAサイクル
   - Plan
   - Do
