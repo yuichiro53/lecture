@@ -21,7 +21,7 @@ ___
 - 配色、フォント種別やサイズ
 - ポスターを見る距離
 
-<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster1.png" width=600>
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster1.png" width=600>]
 
 ---
 
