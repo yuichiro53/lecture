@@ -18,12 +18,10 @@ ___
 ---
 
 ## <font color="yellowgreen">見やすさを意識する</font>
+- 配色、フォント種別やサイズ
+- ポスターを見る距離
 
-<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster1.png" width=400>
-
-配色、フォント種別やサイズ
-
-ポスターを見る距離
+.center[![poster1](poster1.png)]
 
 ---
 
