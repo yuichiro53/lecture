@@ -21,7 +21,7 @@ ___
 - 配色、フォント種別やサイズ
 - ポスターを見る距離
 
-.center[![poster1](poster1.png)]
+![image](poster1.png)
 
 ---
 
