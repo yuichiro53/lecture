@@ -19,7 +19,10 @@ ___
 
 ## <font color="yellowgreen">見やすさを意識する</font>
 
+<img src="https://yuichiro53.github.io/lecture/howto_poster230508/poster1.png" width=400>
+
 配色、フォント種別やサイズ
+
 ポスターを見る距離
 
 ---
