@@ -132,7 +132,8 @@ ___
 ## <font color="yellowgreen">サンプル（自己紹介／研究紹介）</font>
 遊びを入れる場合は、<font color="orange">TPO</font>（時・場所・場面）を意識する。
 
-.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomisemi_intro140806.png" width=600>]
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomisemi_intro140806a.png" width=300>
+<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomisemi_intro140806b.png" width=300>]
 
 ---
 
