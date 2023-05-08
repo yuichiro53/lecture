@@ -23,14 +23,13 @@ ___
 ---
 ## <font color="yellowgreen">自己紹介</font>
 - 日本大学理工学部応用情報工学科所属
-- セキュリティ、機械学習、ブロックチェーン、医療情報、教育・学習支援Webシステム、ゲーミフィケーション
+- 専門：セキュリティ、機械学習、ブロックチェーン、医療情報、教育・学習支援Webシステム、ゲーミフィケーション
+
 他にも、
-- NUNIC参画
-- NU祭実行委員長
+- NUNIC参画やNU祭実行委員長
 - ディズニーランドキャスト
 - 中高専門学校教員(教職免許保有)
-- ゲームメーカー取締役
-- 学生ベンチャー
+- ゲームメーカー取締役や学生ベンチャー
 - コミックマーケット準備会スタッフ
 - 医者じゃないのに博士（医学）
 
@@ -52,30 +51,25 @@ ___
 
 ---
 ## <font color="yellowgreen">根拠を示す</font>
-調べた内容を発表するなら、結果や参考文献で根拠を示す。
-- 文献調査
-- 実験
-- 観察
-- アンケート調査
-- ヒアリング
+調べた内容を発表するなら、結果や参考文献で<font color="orange">根拠</font>を示す。
 
-など。
+.center[文献調査、実験、観察、アンケート調査、ヒアリング、など。]
 
-.center[根拠がないと、説得力がない。]
+根拠がないと、<font color="orange">説得力</font>がない。
 
-アンケート調査やヒアリングの結果を掲載する場合は、事前に許可を得る。
+アンケート調査やヒアリングの結果を掲載する場合は、<font color="orange">事前に許可</font>を得る。
 
 ---
 ## <font color="yellowgreen">見やすさを意識する</font>
 - 配色、フォント種別、サイズ、など
-- ポスターを見る距離
+- ポスターを見る<font color="orange">距離</font>
 
 .center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster_visibility.png" width=600>]
 
 ---
 ## <font color="yellowgreen">読みやすさを意識する</font>
-- 目線の流れを意識する
-- 説明する人の有無で文章量を変える
+- <font color="orange">目線の流れ</font>を意識する
+- 説明する人の有無で<font color="orange">文章量</font>を変える
 
 ---
 ## <font color="yellowgreen">分かりやすさを意識する</font>
@@ -99,7 +93,7 @@ ___
 ---
 ## <font color="yellowgreen">参考文献の書き方</font>
 - 根拠が必要
-- お作法は色々ある[1]
+- <font color="orange">お作法</font>は色々ある[1]
 
 1. 科学技術振興機構. "SIST 科学技術情報流通技術基準｜目的別メニュー：文献を引用したい". https://warp.ndl.go.jp/info:ndljp/pid/12003258/jipsti.jst.go.jp/sist/menu_purpose/index.html, (参照 2023-05-08).
 
@@ -107,9 +101,11 @@ ___
 ## <font color="yellowgreen">まとまりを意識する</font>
 - マジックナンバー３
   - 友情、努力、勝利
-  - 車のナンバーや電話番号
+  - 郵便番号、電話番号、車のナンバーなど
 
-047-469-5330
+.center[274-8501]
+
+.center[047-469-5330]
 
 ---
 ## <font color="yellowgreen">サンプル（オープンキャンパス）</font>
@@ -129,7 +125,7 @@ ___
 
 ---
 ## <font color="yellowgreen">サンプル（自己紹介／研究紹介）</font>
-遊びを入れる場合は、TPO（時・場所・場面）を意識する。
+遊びを入れる場合は、<font color="orange">TPO</font>（時・場所・場面）を意識する。
 
 .center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomisemi_intro140806.png" width=600>]
 
