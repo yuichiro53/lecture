@@ -22,6 +22,19 @@ ___
 
 ---
 ## <font color="yellowgreen">自己紹介</font>
+- 日本大学理工学部応用情報工学科所属
+- セキュリティ、機械学習、ブロックチェーン、医療情報、教育・学習支援Webシステム、ゲーミフィケーション
+他にも、
+- NUNIC参画
+- NU祭実行委員長
+- ディズニーランドキャスト
+- 中高専門学校教員(教職免許保有)
+- ゲームメーカー取締役
+- 学生ベンチャー
+- コミックマーケット準備会スタッフ
+- 医者じゃないのに博士（医学）
+
+・・・などなど。
 
 ---
 ## <font color="yellowgreen">ポスターの構成</font>
@@ -34,19 +47,21 @@ ___
 - 結果（分かったことや事実）
 - 考察（考えたこと）
 - まとめ
+
 が分かりやすい。
 
 ---
 ## <font color="yellowgreen">根拠を示す</font>
 調べた内容を発表するなら、結果や参考文献で根拠を示す。
-
-根拠がないと、説得力がない。
 - 文献調査
 - 実験
 - 観察
 - アンケート調査
 - ヒアリング
-などがある。
+
+など。
+
+.center[根拠がないと、説得力がない。]
 
 アンケート調査やヒアリングの結果を掲載する場合は、事前に許可を得る。
 
@@ -77,14 +92,14 @@ ___
 ---
 ## <font color="yellowgreen">知りたいことを掲載する</font>
 
-興味を引くのは、伝えたいことよりも、知りたいこと
+興味を引くのは、伝えたいことよりも、知りたいこと。
 - 綺麗なノートの作り方 
 - 楽して成績が良くなる方法
 
 ---
 ## <font color="yellowgreen">参考文献の書き方</font>
 - 根拠が必要
-- お作法は色々ある
+- お作法は色々ある[1]
 
 1. 科学技術振興機構. "SIST 科学技術情報流通技術基準｜目的別メニュー：文献を引用したい". https://warp.ndl.go.jp/info:ndljp/pid/12003258/jipsti.jst.go.jp/sist/menu_purpose/index.html, (参照 2023-05-08).
 
@@ -93,7 +108,8 @@ ___
 - マジックナンバー３
   - 友情、努力、勝利
   - 車のナンバーや電話番号
-    - 047-469-5330
+
+047-469-5330
 
 ---
 ## <font color="yellowgreen">サンプル（オープンキャンパス）</font>
@@ -108,12 +124,12 @@ ___
 ---
 ## <font color="yellowgreen">サンプル（学会発表）</font>
 
-.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/jcmi2013_poster131121.png" width=600>
-<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/jcmi2017_poster170909.png" width=600>]
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/jcmi2013_poster131121.png" width=300>
+<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/jcmi2017_poster170909.png" width=300>]
 
 ---
 ## <font color="yellowgreen">サンプル（自己紹介／研究紹介）</font>
-遊びを入れる場合はTPO（時・場所・場面）を意識する
+遊びを入れる場合は、TPO（時・場所・場面）を意識する。
 
 .center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomisemi_intro140806.png" width=600>]
 
