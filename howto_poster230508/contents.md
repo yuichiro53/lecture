@@ -7,39 +7,74 @@ ___
 五味悠一郎
 
 ---
-
 # <font color="skyblue">アジェンダ</font>
+- 自己紹介
+- ポスターの構成
+- 根拠を示す
 - 見やすさを意識する
+- 読みやすさを意識する
 - 分かりやすさを意識する
 - 同じ視点で比較する
 - 知りたいことを掲載する
 - まとまりを意識する
 - 参考文献の書き方
+- サンプル
 
 ---
+## <font color="yellowgreen">自己紹介</font>
 
+---
+## <font color="yellowgreen">ポスターの構成</font>
+調べた内容を発表するなら、
+- 題目（タイトル）
+- 発表者の所属と名前
+- 背景
+- 目的ないしは目標
+- 方法（手順）
+- 結果（分かったことや事実）
+- 考察（考えたこと）
+- まとめ
+が分かりやすい。
+
+---
+## <font color="yellowgreen">根拠を示す</font>
+調べた内容を発表するなら、結果や参考文献で根拠を示す。
+
+根拠がないと、説得力がない。
+- 文献調査
+- 実験
+- 観察
+- アンケート調査
+- ヒアリング
+などがある。
+
+アンケート調査やヒアリングの結果を掲載する場合は、事前に許可を得る。
+
+---
 ## <font color="yellowgreen">見やすさを意識する</font>
-- 配色、フォント種別、サイズ
+- 配色、フォント種別、サイズ、など
 - ポスターを見る距離
 
-.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster1.png" width=600>]
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster_visibility.png" width=600>]
 
 ---
+## <font color="yellowgreen">読みやすさを意識する</font>
+- 目線の流れを意識する
+- 説明する人の有無で文章量を変える
 
+---
 ## <font color="yellowgreen">分かりやすさを意識する</font>
 - 綺麗やカッコいいとは違う
 - 非推奨：3Dグラフ
 
-.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster2.png" width=600>]
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster_graph.png" width=600>]
 
 ---
-
 ## <font color="yellowgreen">同じ視点で比較する</font>
 
-.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster3.png" width=600>]
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster_comparison.png" width=600>]
 
 ---
-
 ## <font color="yellowgreen">知りたいことを掲載する</font>
 
 興味を引くのは、伝えたいことよりも、知りたいこと
@@ -47,15 +82,13 @@ ___
 - 楽して成績が良くなる方法
 
 ---
-
 ## <font color="yellowgreen">参考文献の書き方</font>
 - 根拠が必要
 - お作法は色々ある
 
-1. 科学技術振興機構. "SIST 科学技術情報流通技術基準｜目的別メニュー：文献を引用したい". https://warp.ndl.go.jp/info:ndljp/pid/12003258/jipsti.jst.go.jp/sist/menu_purpose/index.html, (参照 2006-06-23).
+1. 科学技術振興機構. "SIST 科学技術情報流通技術基準｜目的別メニュー：文献を引用したい". https://warp.ndl.go.jp/info:ndljp/pid/12003258/jipsti.jst.go.jp/sist/menu_purpose/index.html, (参照 2023-05-08).
 
 ---
-
 ## <font color="yellowgreen">まとまりを意識する</font>
 - マジックナンバー３
   - 友情、努力、勝利
@@ -63,5 +96,27 @@ ___
     - 047-469-5330
 
 ---
+## <font color="yellowgreen">サンプル（オープンキャンパス）</font>
 
-# ご清聴ありがとうございました
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomilab_intro170419a.png" width=600>]
+
+---
+## <font color="yellowgreen">サンプル（オープンキャンパス）</font>
+
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomilab_intro170419b.png" width=600>]
+
+---
+## <font color="yellowgreen">サンプル（学会発表）</font>
+
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/jcmi2013_poster131121.png" width=600>
+<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/jcmi2017_poster170909.png" width=600>]
+
+---
+## <font color="yellowgreen">サンプル（自己紹介／研究紹介）</font>
+遊びを入れる場合はTPO（時・場所・場面）を意識する
+
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/gomisemi_intro140806.png" width=600>]
+
+---
+
+# ご清聴ありがとうございました！
