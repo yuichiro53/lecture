@@ -61,6 +61,7 @@ ___
 ---
 ## <font color="yellowgreen">見やすさを意識する</font>
 - 配色、フォント種別、サイズ、など
+- 必要に応じて<font color="orange">アクセント</font>
 - ポスターを見る<font color="orange">距離</font>
 
 .center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster_visibility.png" width=600>]
