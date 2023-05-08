@@ -22,8 +22,7 @@ ___
 
 ---
 ## <font color="yellowgreen">自己紹介</font>
-- 日本大学理工学部応用情報工学科所属
-- 専門：セキュリティ、機械学習、ブロックチェーン、医療情報、教育・学習支援Webシステム、ゲーミフィケーション
+- セキュリティ、機械学習、ブロックチェーン、医療情報、教育・学習支援Webシステム、ゲーミフィケーション
 
 他にも、
 - NUNIC参画やNU祭実行委員長
@@ -71,6 +70,8 @@ ___
 - <font color="orange">目線の流れ</font>を意識する
 - 説明する人の有無で<font color="orange">文章量</font>を変える
 
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster_layout.png" width=600>]
+
 ---
 ## <font color="yellowgreen">分かりやすさを意識する</font>
 - 綺麗やカッコいいとは違う
@@ -86,9 +87,11 @@ ___
 ---
 ## <font color="yellowgreen">知りたいことを掲載する</font>
 
-興味を引くのは、伝えたいことよりも、知りたいこと。
+興味を引くのは、伝えたいことよりも、<font color="orange">知りたい</font>こと。
 - 綺麗なノートの作り方 
 - 楽して成績が良くなる方法
+
+どちらに興味を持てますか？
 
 ---
 ## <font color="yellowgreen">参考文献の書き方</font>
@@ -106,6 +109,8 @@ ___
 .center[274-8501]
 
 .center[047-469-5330]
+
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/howto_poster230508/poster_magicnum.png" width=300>]
 
 ---
 ## <font color="yellowgreen">サンプル（オープンキャンパス）</font>
