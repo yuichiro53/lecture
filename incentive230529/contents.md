@@ -480,9 +480,9 @@ PM≒院卒
 .center[
 <img src="https://dl.dropboxusercontent.com/s/gtjysahzfqd8sdm/%E7%A4%BE%E9%95%B7%E3%81%8C%E8%A8%8A%E3%81%8F%E3%80%8ENew%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BAWii%E3%80%8F.png" width=400>
 
-社長が訊く『NewスーパーマリオブラザーズWii』
+社長が訊く『NewスーパーマリオブラザーズWii』（任天堂）
 
-（任天堂、https://www.nintendo.co.jp/wii/interview/smnj/vol1/）
+https://www.nintendo.co.jp/wii/interview/smnj/vol1/
 ]
 
 ---
@@ -803,7 +803,7 @@ ICT → I Create Tommorow
 ---
 
 .center[
-<img src="https://dl.dropboxusercontent.com/s/r4470hsn8yckww0/%E7%9B%B8%E6%A3%9218%E6%9C%80%E7%B5%82%E5%9B%9ESPh00m27s02-%E5%8A%A0%E5%B7%A5%E6%B8%88210628.jpg" width=400>
+<img src="https://dl.dropboxusercontent.com/s/r4470hsn8yckww0/%E7%9B%B8%E6%A3%9218%E6%9C%80%E7%B5%82%E5%9B%9ESPh00m27s02-%E5%8A%A0%E5%B7%A5%E6%B8%88210628.jpg" width=600>
 
 （テレビ朝日、相棒18最終回スペシャル）
 ]
