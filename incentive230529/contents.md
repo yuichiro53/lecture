@@ -10,12 +10,12 @@ ___
 
 ### 学生番号と氏名を入力（出席確認）
 - ブラウザ（かQRコード）で以下のWebサイトへアクセス<br>
-https://www.menti.com/pwxkao9mzh
+.center[https://www.menti.com/aljjweaez2ke]
 - このサイトは別端末（スマホ等）利用推奨
-- 入力完了前に話が進んでも入力完了させる
-- 以降の質問も同様
-
-<img src="https://dl.dropboxusercontent.com/s/gejainj6zqv2f17/mentimeter_qr_code220529.png" width=200>
+- Moodleにもリンク掲載（投票結果リンクも有）
+- 入力完了前に話が進んでも入力完了させること
+- 以降の質問も同様<br>
+.center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/incentive230529/mentimeter_qr_code230528.png" width=200>]
 
 .footnote[このスライドのみ撮影可]
 
@@ -185,22 +185,22 @@ class: middle, center
 1回の授業で払う金額を知っていますか？
 
 例えば、
-- 授業料：年147万円(応用情報:2020年度)
+- 授業料：年151万円(応用情報:2022年度)
 - 履修科目：年30科目
-の場合は、<font color="orange">3,270円</font><br>(=147万円÷30科目÷15回)。
+の場合は、<font color="orange">3,356円</font><br>(=151万円÷30科目÷15回)。
 
 高いか安いか。その理由は？
 
 欠席や不真面目な受講をすると、毎回これだけ<font color="orange">損</font>をする。
 
-90分で3,270円稼げますか？
+90分で3,356円稼げますか？
 
 ---
 
 - 遊びやバイトの許容範囲は？
   - 例えば、留年しない位まで。
   - 大学の成績は卒業後に使わない。
-- 留年1回あたり<font color="orange">147万円以上</font>の出費。
+- 留年1回あたり<font color="orange">151万円以上</font>の出費。
 
 ### <font color="orange">自由</font>と<font color="orange">責任</font>
 
@@ -238,7 +238,7 @@ class: middle, center
 - 普通免許：5,400円
 - 取得時講習受講料：15,400円
 
-合計<font color="orange">26,300</font>円(2019年11月現在)
+合計<font color="orange">26,300</font>円(2023年3月現在)
 
 運転練習する場所は身近にありますよね！？
 
@@ -283,9 +283,11 @@ class: middle, center
 
 ---
 
+.center[
 <img src="https://dl.dropboxusercontent.com/s/m8zjd3vewios3i9/%E3%83%89%E3%83%A9%E3%81%88%E3%82%82%E3%82%93%E7%AC%AC1%E5%B7%BBp16.png" width=400>
 
 ドラえもん第1巻（藤子・F・不二雄、小学館）
+]
 
 ---
 
@@ -475,19 +477,21 @@ PM≒院卒
 
 ---
 
+.center[
 <img src="https://dl.dropboxusercontent.com/s/gtjysahzfqd8sdm/%E7%A4%BE%E9%95%B7%E3%81%8C%E8%A8%8A%E3%81%8F%E3%80%8ENew%E3%82%B9%E3%83%BC%E3%83%91%E3%83%BC%E3%83%9E%E3%83%AA%E3%82%AA%E3%83%96%E3%83%A9%E3%82%B6%E3%83%BC%E3%82%BAWii%E3%80%8F.png" width=400>
 
 社長が訊く『NewスーパーマリオブラザーズWii』
 
 （任天堂、https://www.nintendo.co.jp/wii/interview/smnj/vol1/）
+]
 
 ---
 
+.center[
 <img src="https://dl.dropboxusercontent.com/s/2o1gsohpjcvg430/20060203042729.jpg" width=400>
 
-ドンキーコング・マリオブラザーズ
-
-（任天堂）
+ドンキーコング・マリオブラザーズ（任天堂）
+]
 
 --
 
@@ -798,9 +802,11 @@ ICT → I Create Tommorow
 
 ---
 
+.center[
 <img src="https://dl.dropboxusercontent.com/s/r4470hsn8yckww0/%E7%9B%B8%E6%A3%9218%E6%9C%80%E7%B5%82%E5%9B%9ESPh00m27s02-%E5%8A%A0%E5%B7%A5%E6%B8%88210628.jpg" width=400>
 
 （テレビ朝日、相棒18最終回スペシャル）
+]
 
 俳優デビュー？（笑）
 
