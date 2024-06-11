@@ -20,10 +20,10 @@ ___
 ---
 
 ## <font color="yellowgreen">五味の自己紹介</font>
-### 模擬講義2022「情報技術で楽しく学ぶ」
+模擬講義2022「情報技術で楽しく学ぶ」
 > https://www.youtube.com/embed/mFq4W_OJ4zM
 
-### 研究者情報システム（日本大学研究者ガイド）
+研究者情報システム（日本大学研究者ガイド）
 > https://researcher-web.nihon-u.ac.jp/search/detail?systemId=474ff9fa335ab8351b3865cb7e43cb38
 
 ---
@@ -41,10 +41,12 @@ ___
 能登半島地震避難者受入基金
 - 二次避難マッチング
   - 【使用ツール】Googleドライブ、Googleチャット、Googleスプレッドシート、Zoom、03plus、IVRy
+
 > https://news.yahoo.co.jp/expert/articles/11dcf5cfe34d88b0fa1270a45b29f6004fed016f
 
 - バス
   - 【使用ツール】Peatix
+
 > https://noto-hinan.peatix.com/
 
 ---
@@ -62,6 +64,7 @@ ___
 ### <font color="skyblue">これまでの経緯</font>
 岩城慶太郎
 - 【五味との関係】学生時代のバイト仲間
+
 > https://chuokoron.jp/politics/124914.html
 
 学校法人日本大学との包括連携協定の締結について（石川県）
@@ -220,6 +223,7 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
   - WordPressというCMSで構築
   - Googleアナリティクスを設置
   - GoogleCloudPlatformで短時間低予算構築
+
 > https://notostay.com/
 
 ---
@@ -229,6 +233,7 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 - 能登ステイ(Facebookグループ)
   - Webサイトの<font color="orange">情報源</font>
   - 現地の人に情報を掲載してもらう
+
 > https://www.facebook.com/groups/239830745888270
 
 ---
@@ -255,6 +260,7 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
   - バーベキューやキャンプファイヤー
   - <font color="orange">被災者生活体験</font>
   - リアル経営ゲーム
+
 > https://www.facebook.com/volunteercampsuzu/
 
 ---
@@ -275,6 +281,7 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 - <font color="orange">日大生の企画参加者</font>を増やす
 - クラウドファンディング
   - 交通費や食費等の資金調達
+
 > https://camp-fire.jp/projects/view/672200
 
 奥能登2市2町人口5万人強より多い日大生9万人弱が動けば何か変わるかも？
