@@ -1,4 +1,3 @@
-class: middle, center
 
 # 能登半島地震を学ぼう！
 ## キックオフミーティング
@@ -23,6 +22,7 @@ ___
 ## <font color="yellowgreen">五味の自己紹介</font>
 ### 模擬講義2022「情報技術で楽しく学ぶ」
 > https://www.youtube.com/embed/mFq4W_OJ4zM
+
 ### 研究者情報システム（日本大学研究者ガイド）
 > https://researcher-web.nihon-u.ac.jp/search/detail?systemId=474ff9fa335ab8351b3865cb7e43cb38
 
@@ -38,30 +38,30 @@ ___
 ---
 
 ### <font color="skyblue">これまでの経緯</font>
-### 能登半島地震避難者受入基金
+能登半島地震避難者受入基金
 - 二次避難マッチング
-> https://news.yahoo.co.jp/expert/articles/11dcf5cfe34d88b0fa1270a45b29f6004fed016f
 > 【使用ツール】Googleドライブ、Googleチャット、Googleスプレッドシート、Zoom、03plus、IVRy
+> https://news.yahoo.co.jp/expert/articles/11dcf5cfe34d88b0fa1270a45b29f6004fed016f
 
 - バス
-> https://noto-hinan.peatix.com/
 > 【使用ツール】Peatix
+> https://noto-hinan.peatix.com/
 
-### 二次避難先などへの移動を支援 珠洲ー金沢間で無料バス運行　利用者「本当に助かります」（石川テレビ）
+二次避難先などへの移動を支援 珠洲ー金沢間で無料バス運行　利用者「本当に助かります」（石川テレビ）
 > https://www.ishikawa-tv.com/news/itc/00000885
 
 ---
 
 ### <font color="skyblue">これまでの経緯</font>
-### 能登半島地震避難者受入基金
+能登半島地震避難者受入基金
 - 宣伝
 > 【使用ツール】Facebook、X、Web(ペライチ)
 
 - 岩城慶太郎
-> https://chuokoron.jp/politics/124914.html
 > 【五味との関係】学生時代のバイト仲間
+> https://chuokoron.jp/politics/124914.html
 
-### 学校法人日本大学との包括連携協定の締結について（石川県）
+学校法人日本大学との包括連携協定の締結について（石川県）
 > https://www.pref.ishikawa.lg.jp/kikaku/koutoukyouiku/nichidai.html
 
 「能登半島地震避難者受入基金」の後継が「一般社団法人能登乃國百年之計」
@@ -69,22 +69,22 @@ ___
 ---
 
 ### <font color="skyblue">これまでの経緯</font>
-### 日本大学災害研究ソサイエティ
+日本大学災害研究ソサイエティ
 > https://www.runit.cst.nihon-u.ac.jp/nuds/
 
-### 災害用パーソナル・アラートとは？（NUDS）
+災害用パーソナル・アラートとは？（NUDS）
 > https://www.runit.cst.nihon-u.ac.jp/nuds/outline/alert/
 
-### PADアプリ実証実験の動画を公開しました（NUDS）
+PADアプリ実証実験の動画を公開しました（NUDS）
 > https://www.runit.cst.nihon-u.ac.jp/nuds/news/pad_movie/
 
 ---
 
 ### <font color="skyblue">これまでの経緯</font>
-### 珠洲でのお手伝い
+珠洲でのお手伝い
 > https://www.facebook.com/groups/1534685393298269/permalink/6908125402620881/
 
-### GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル）
+GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル）
 > https://www.asahi.com/articles/ASS4W4QVSS4WPJLB001M.html
 
 ---
@@ -95,7 +95,7 @@ ___
 ---
 
 ### <font color="skyblue">現在の課題</font>
-### 復興には時間がかかる
+復興には時間がかかる
 - 被災家屋の公費解体完了が<font color="orange">令和7年10月</font>予定
 - 解体には<font color="orange">重機</font>が必要
   - 海岸隆起で海路が使えない
@@ -105,13 +105,13 @@ ___
 - 解体には<font color="orange">所有者全員の同意</font>が必要
   - 所有者全員の同意がなくても可能な要件が最近明確化された
 
-### 進まぬ公費解体、復興に影　申請、いまだ３割―能登地震（時事通信）
+進まぬ公費解体、復興に影　申請、いまだ３割―能登地震（時事通信）
 > https://www.jiji.com/jc/article?k=2024042100273
 
 ---
 
 ### <font color="skyblue">現在の課題</font>
-### 復興には時間がかかる
+復興には時間がかかる
 - 解体には<font color="orange">人員</font>が必要
   - 災害ゴミを減らすためボランティアによる片付けが必要
   - 災害ゴミは塩分を含むため全て埋め立て
@@ -125,18 +125,18 @@ ___
 ---
 
 ### <font color="skyblue">現在の課題</font>
-### トレードオフ
+トレードオフ
 - 炊き出しや物資支援が増えると現地で<font color="orange">物が売れない</font>
 - 被害の発信で来る人もいれば<font color="orange">来ない人</font>もいる
 
-### カーナビが役に立たなない
+カーナビが役に立たなない
 - 通行止めや危険な場所が反映されない
 - 避難や支援に悪影響(特に土地勘のない場所)
 
 ---
 
 ### <font color="skyblue">現在の課題</font>
-### 誤情報や思い込み
+誤情報や思い込み
 - 奥能登には未だ行けない？
   - 注意すべき点はあるが<font color="orange">行ける</font>
 - 炊き出しに集まるから継続が必要？
@@ -151,7 +151,7 @@ ___
 ---
 
 ### <font color="skyblue">現在の課題</font>
-### 誤情報や思い込み
+誤情報や思い込み
 - お弁当が減らされた？
   - 避難所から提出された必要実数の積み上げ
   - <font color="orange">申請があれば増やす</font>と言っている
@@ -163,7 +163,7 @@ ___
 ---
 
 ### <font color="skyblue">現在の課題</font>
-### 誤情報や思い込み
+誤情報や思い込み
 - 避難者が現在でも多い？
   - 避難所生活が快適で二次避難をしない
   - 避難所を閉鎖すれば<font color="orange">復興拠点</font>となり支援者の負担軽減に
@@ -173,7 +173,7 @@ ___
 - 自治体による支援不足？
   - 自治体の<font color="orange">職員も被災</font>してるし疲弊してる
 
-### 偽情報、４人に１人が拡散＝能登地震で―情報通信白書案（時事通信）
+偽情報、４人に１人が拡散＝能登地震で―情報通信白書案（時事通信）
 > https://sp.m.jiji.com/article/show/3255482
 
 ---
@@ -184,7 +184,7 @@ ___
 ---
 
 ### <font color="skyblue">解決策</font>
-### よく見聞きする支援
+よく見聞きする支援
 - 公式ボランティア、炊き出し、義援金と支援金、買って応援。
 > <font color="orange">限界</font>にきているのでは？
 
@@ -198,7 +198,7 @@ ___
 ---
 
 ### <font color="skyblue">解決策</font>
-### 抜本的な解決策
+抜本的な解決策
 - 奥能登を往来する<font color="orange">人を増やす</font>
   - 奥能登の経済活動に貢献できる
   - ボランティア要員となりえる
@@ -208,7 +208,7 @@ ___
 ---
 
 ### <font color="skyblue">解決策</font>
-### 現在取り組んでいること
+現在取り組んでいること
 - 能登ステイ(Webサイト)
 > https://notostay.com/
   - 現在の奥能登を網羅的に紹介している<font color="orange">唯一</font>のサイト
@@ -223,7 +223,7 @@ ___
 ---
 
 ### <font color="skyblue">解決策</font>
-### 現在取り組んでいること
+現在取り組んでいること
 - 能登ステイの<font color="orange">宣伝</font>
   - 能登ステイを多くの人に知ってもらう
   - FacebookやXで宣伝
@@ -236,7 +236,7 @@ ___
 ---
 
 ### <font color="skyblue">解決策</font>
-### 今後取り組みたいこと
+今後取り組みたいこと
 - 木ノ浦野営場の運営
   - <font color="orange">楽しく</font>お手伝い
   - サマーキャンプやワーキングホリデー
@@ -251,7 +251,7 @@ ___
 ---
 
 ### <font color="skyblue">解決策</font>
-### 今後取り組みたいこと
+今後取り組みたいこと
 - 能登ステイ
   - 能登半島の見える化
   - 地図情報の拡充
@@ -271,7 +271,7 @@ ___
 ---
 
 ### <font color="skyblue">考えてみてね</font>
-### 企画参加者ができること
+企画参加者ができること
 - レンタル品の貸出返却管理
 - レンタル品のメンテナンス
 - キャンプ場利用者の予約管理
@@ -284,7 +284,7 @@ ___
 ---
 
 ### <font color="skyblue">考えてみてね</font>
-### 企画参加者ができること
+企画参加者ができること
 - アウトドア料理
 - 掃除やゴミ捨て
 - 観光
@@ -296,7 +296,7 @@ ___
 ---
 
 ### <font color="skyblue">考えてみてね</font>
-### 企画参加者に考えてほしいこと
+企画参加者に考えてほしいこと
 - 地元で災害が発生した時に何が出来ますか？
 - 家族や大事な人が被災したら何が出来ますか？
   - キャンプ生活できますか？
@@ -309,7 +309,7 @@ ___
 ---
 
 ### <font color="skyblue">考えてみてね</font>
-### 企画参加者に考えてほしいこと
+企画参加者に考えてほしいこと
 - 石川県職員の初動が遅れたのは経験不足の可能性あり。
 - 無理をすると、無理が生じるので、無理はしない。
 - 魚を与えるから(支援)、魚を取れる仕組みづくり(自立)へ。
@@ -318,7 +318,7 @@ ___
 ---
 
 ### <font color="skyblue">考えてみてね</font>
-### 企画参加者へのお願い
+企画参加者へのお願い
 - 出来ることがあればSlackに投稿してください
 > 実現するためのサポートをします
 - 現地滞在する人は予定日を回答してください
@@ -329,7 +329,7 @@ ___
 ---
 
 ### <font color="skyblue">考えてみてね</font>
-### 能登の潜在的課題について
+能登の潜在的課題について
 - 過疎化や限界集落
 - 今後どうしたいかは住人が決めること
 - 選択肢は沢山あった方が良い
