@@ -40,12 +40,19 @@ ___
 ### <font color="skyblue">これまでの経緯</font>
 能登半島地震避難者受入基金
 - 二次避難マッチング
-> 【使用ツール】Googleドライブ、Googleチャット、Googleスプレッドシート、Zoom、03plus、IVRy
+  - 【使用ツール】Googleドライブ、Googleチャット、Googleスプレッドシート、Zoom、03plus、IVRy
 > https://news.yahoo.co.jp/expert/articles/11dcf5cfe34d88b0fa1270a45b29f6004fed016f
 
 - バス
-> 【使用ツール】Peatix
+  - 【使用ツール】Peatix
 > https://noto-hinan.peatix.com/
+
+---
+
+### <font color="skyblue">これまでの経緯</font>
+能登半島地震避難者受入基金
+- 宣伝
+  - 【使用ツール】Facebook、X、Web(ペライチ)
 
 二次避難先などへの移動を支援 珠洲ー金沢間で無料バス運行　利用者「本当に助かります」（石川テレビ）
 > https://www.ishikawa-tv.com/news/itc/00000885
@@ -53,12 +60,8 @@ ___
 ---
 
 ### <font color="skyblue">これまでの経緯</font>
-能登半島地震避難者受入基金
-- 宣伝
-> 【使用ツール】Facebook、X、Web(ペライチ)
-
-- 岩城慶太郎
-> 【五味との関係】学生時代のバイト仲間
+岩城慶太郎
+- 【五味との関係】学生時代のバイト仲間
 > https://chuokoron.jp/politics/124914.html
 
 学校法人日本大学との包括連携協定の締結について（石川県）
@@ -105,9 +108,6 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 - 解体には<font color="orange">所有者全員の同意</font>が必要
   - 所有者全員の同意がなくても可能な要件が最近明確化された
 
-進まぬ公費解体、復興に影　申請、いまだ３割―能登地震（時事通信）
-> https://www.jiji.com/jc/article?k=2024042100273
-
 ---
 
 ### <font color="skyblue">現在の課題</font>
@@ -132,6 +132,9 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 カーナビが役に立たなない
 - 通行止めや危険な場所が反映されない
 - 避難や支援に悪影響(特に土地勘のない場所)
+
+進まぬ公費解体、復興に影　申請、いまだ３割―能登地震（時事通信）
+> https://www.jiji.com/jc/article?k=2024042100273
 
 ---
 
@@ -173,6 +176,11 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 - 自治体による支援不足？
   - 自治体の<font color="orange">職員も被災</font>してるし疲弊してる
 
+---
+
+### <font color="skyblue">現在の課題</font>
+誤情報や思い込み
+
 偽情報、４人に１人が拡散＝能登地震で―情報通信白書案（時事通信）
 > https://sp.m.jiji.com/article/show/3255482
 
@@ -186,14 +194,12 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 ### <font color="skyblue">解決策</font>
 よく見聞きする支援
 - 公式ボランティア、炊き出し、義援金と支援金、買って応援。
-> <font color="orange">限界</font>にきているのでは？
-
+  - <font color="orange">限界</font>にきているのでは？
 - 落ち着いたら行く
-> 落ち着く<font color="orange">基準</font>は？
-
+  - 落ち着く<font color="orange">基準</font>は？
 - 他にもあるのでは？
-> 情報による<font color="orange">遠隔支援</font>
-> お手伝い
+  - 情報による<font color="orange">遠隔支援</font>
+  - お手伝い
 
 ---
 
@@ -210,15 +216,20 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 ### <font color="skyblue">解決策</font>
 現在取り組んでいること
 - 能登ステイ(Webサイト)
-> https://notostay.com/
   - 現在の奥能登を網羅的に紹介している<font color="orange">唯一</font>のサイト
   - WordPressというCMSで構築
   - Googleアナリティクスを設置
   - GoogleCloudPlatformで短時間低予算構築
+> https://notostay.com/
+
+---
+
+### <font color="skyblue">解決策</font>
+現在取り組んでいること
 - 能登ステイ(Facebookグループ)
-> https://www.facebook.com/groups/239830745888270
   - Webサイトの<font color="orange">情報源</font>
   - 現地の人に情報を掲載してもらう
+> https://www.facebook.com/groups/239830745888270
 
 ---
 
@@ -245,8 +256,6 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
   - <font color="orange">被災者生活体験</font>
   - リアル経営ゲーム
 > https://www.facebook.com/volunteercampsuzu/
-- ホープ(ダーク)ツーリズム
-  - モデルコースづくり
 
 ---
 
@@ -256,6 +265,13 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
   - 能登半島の見える化
   - 地図情報の拡充
   - 再開情報の拡充
+- ホープ(ダーク)ツーリズム
+  - モデルコースづくり
+
+---
+
+### <font color="skyblue">解決策</font>
+今後取り組みたいこと
 - <font color="orange">日大生の企画参加者</font>を増やす
 - クラウドファンディング
   - 交通費や食費等の資金調達
@@ -320,11 +336,11 @@ GW初日、能登空港に多くの人でにぎわう（朝日新聞デジタル
 ### <font color="skyblue">考えてみてね</font>
 企画参加者へのお願い
 - 出来ることがあればSlackに投稿してください
-> 実現するためのサポートをします
+  - 実現するためのサポートをします
 - 現地滞在する人は予定日を回答してください
-> Googleスプレッドシートへ記入願います
+  - Googleスプレッドシートへ記入願います
 - 報連相はSlackを活用してください
-> 能登半島地震で役立ったSNSに慣れるねらいも
+  - 能登半島地震で役立ったSNSに慣れるねらいも
 
 ---
 
