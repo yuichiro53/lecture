@@ -1,4 +1,3 @@
-
 class: middle, center
 
 # 能登半島地震を学ぼう！
