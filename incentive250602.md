@@ -13,12 +13,12 @@ ___
 - リンクはMoodleに掲載してある（投票結果へのリンクも後ほど公開）
 - 入力完了前に話が進んでも入力完了させること
 - 以降の質問も同様
-<!--
+[](
 - このサイトは別端末（スマホ等）利用推奨
 .center[https://www.menti.com/aljjweaez2ke]
 .center[<img src="https://raw.githubusercontent.com/yuichiro53/lecture/master/incentive230529/mentimeter_qr_code230528.png" width=200>]
 .footnote[このスライドのみ撮影可]
--->
+)
 
 ---
 
