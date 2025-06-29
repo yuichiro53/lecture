@@ -7,7 +7,7 @@
   - [模擬授業「情報工学でテーマパークを研究してみよう」スライド](https://yuichiro53.github.io/lecture/themapark220930.html)
   - [出張授業「発表用ポスターの作り方」スライド](https://yuichiro53.github.io/lecture/howto_poster230508.html)
   - [能登半島地震を学ぼう！「キックオフミーティング」スライド](https://yuichiro53.github.io/lecture/notostay_nu240611.html)
-  - [第5回能登ヨバレ＠東京」スライド](https://yuichiro53.github.io/lecture/notoyobare250628.html)
+  - [「第5回能登ヨバレ＠東京」スライド→不使用](https://yuichiro53.github.io/lecture/notoyobare250628.html)
 
 - GitPitch使用
   - 有償化して使いにくくなったので今後は使わない（PITCHME関連ファイル）。
